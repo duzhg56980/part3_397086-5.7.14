@@ -1,0 +1,6 @@
+import cn.hutool.core.lang.Console;
+public class FunctionUse3554 {
+public void funcUse() {
+Console console = new Console();
+}
+}
